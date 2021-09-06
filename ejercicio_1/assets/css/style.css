@@ -1,0 +1,29 @@
+
+body {
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+}
+        
+.main {
+    margin: 2px
+}
+
+.box {
+    border: 0;
+    width: 24%;
+    padding: 5px;
+    display: inline-block;
+}
+
+
+.navbar {
+    background-color: green;
+    position:fixed;
+    padding: 2rem;
+}
+
+.container-fluid {
+    
+    padding-top: 10rem;
+}
